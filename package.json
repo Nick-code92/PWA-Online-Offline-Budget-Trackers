@@ -1,5 +1,5 @@
 {
-  "name": "PWA-Online-Offine-Budget-Trackers",
+  "name": "pwa-online-offine-budget-trackers",
   "version": "1.0.0",
   "description": "",
   "main": "server.js",
@@ -13,12 +13,10 @@
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": ""
-  },
   "homepage": "",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.5.15"
-  }
+  },
+  "devDependencies": {}
 }
