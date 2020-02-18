@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "git+https://github.com:Nick-code92/PWA-Online-Offline-Budget-Trackers.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": ""
+    "url": "https://github.com:Nick-code92/PWA-Online-Offline-Budget-Trackers/issues"
   },
-  "homepage": "",
+  "homepage": "https://github.com:Nick-code92/PWA-Online-Offline-Budget-Trackers#readme",
   "dependencies": {
     "express": "^4.17.1",
     "mongoose": "^5.5.15"
