@@ -18,7 +18,18 @@
   },
   "homepage": "https://github.com:Nick-code92/PWA-Online-Offline-Budget-Trackers#readme",
   "dependencies": {
+    "compression": "^1.7.4",
     "express": "^4.17.1",
     "mongoose": "^5.5.15"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.4.4",
+    "@babel/preset-env": "^7.4.4",
+    "babel-core": "^6.26.3",
+    "babel-loader": "^8.0.6",
+    "sw-precache-webpack-plugin": "^0.11.5",
+    "webpack": "^4.32.0",
+    "webpack-cli": "^3.3.2",
+    "webpack-pwa-manifest": "^4.0.0"
   }
 }
